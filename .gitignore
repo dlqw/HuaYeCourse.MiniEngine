@@ -1,0 +1,11 @@
+# 忽略所有
+*
+
+# 白名单 Git 自身
+!.gitignore
+
+# 白名单 lectures 和 projects
+!lectures/
+!lectures/**
+!projects/
+!projects/**
